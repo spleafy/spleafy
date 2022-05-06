@@ -19,6 +19,9 @@ Hello, my name is Martin Petrov, a.k.a spleafy. I have been a full stack develop
 - NodeJS - Express, Fastify
 - PHP - Laravel, CodeIgniter
 - Python - Django
+- MongoDB
+- MySQL
+- PostgreSQL
 
 ## Contact me
 
