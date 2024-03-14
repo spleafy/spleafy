@@ -2,7 +2,7 @@
 
 ## Bio
 
-Hello, I am Martin Petrov, a.k.a **_spleafy_**. I have been a full-stack developer, working mainly with React, Angular, NodeJS with Express and Fastify, MongoDB, MySQL, and many more.
+Hello, I am Martin Petrov, a.k.a **_spleafy_**. I am a full-stack developer, working mainly with React, Angular, NodeJS with Express and Fastify, MongoDB, MySQL, and many more.
 
 ## Skills
 
