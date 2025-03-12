@@ -51,26 +51,6 @@ Passionate about technology, open source, and building impactful products. Curre
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=spleafy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=spleafy&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spleafy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 👤 Connect with Me
 
 - 📧 **Email:** [martinpetrov404@gmail.com](mailto:martinpetrov404@gmail.com)
