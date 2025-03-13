@@ -7,7 +7,7 @@ Passionate about technology, open source, and building impactful products. Curre
 ## 👨‍💻 About Me
 
 - 📚 I’ve been coding for **5+ years** and love building scalable web applications.
-- 🚀 My expertise: **Full-Stack Development, Cloud Infrastructure, UI/UX Design.**
+- 🚀 My expertise: **Full-Stack Development, Mobile Applications, Cloud Infrastructure, UI/UX Design.**
 - 💡 I’ve launched **three coding startups** and love open-source contributions.
 - 🛠️ Always experimenting with **new frameworks & libraries**!
 
@@ -17,6 +17,7 @@ Passionate about technology, open source, and building impactful products. Curre
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
