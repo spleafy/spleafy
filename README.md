@@ -1,6 +1,6 @@
 # Hi there, I'm Martin (a.k.a *spleafy*)! 🌟
 
-Passionate about technology, open source, and building impactful products. Currently working on **Influensic, Prismane, and Dearly**.
+Passionate about technology, open source, and building impactful products. Currently working on **Cloutr, Prismane, and Dearly**.
 
 ---
 
@@ -46,7 +46,7 @@ Passionate about technology, open source, and building impactful products. Curre
 
 ## 💪 Projects I'm Working On
 
-- **[Influensic](https://github.com/influensicdev)** - A powerful social platform for influencers.
+- **[Cloutr](https://github.com/cloutrapp)** - A powerful social platform for influencers.
 - **[Prismane](https://github.com/prismaneui)** - A modern UI framework.
 - **[Dearly](https://github.com/dearly-app)** - An app for sending heartfelt messages.
 
